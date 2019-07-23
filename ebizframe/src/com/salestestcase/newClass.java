@@ -1,5 +1,9 @@
 package com.salestestcase;
 
-public class newClass {
+public class newClass 
+{
+	system.out.println("Hello World");
+
+	}
 
 }
