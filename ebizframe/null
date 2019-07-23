@@ -1,0 +1,36 @@
+1555737520852	geckodriver	INFO	geckodriver 0.19.0
+1555737520860	geckodriver	INFO	Listening on 127.0.0.1:1217
+1555737521428	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\ADMINI~1\\AppData\\Local\\Temp\\rust_mozprofile.xofbzqQBCh0P"
+1555737522914	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+[Child 3996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 3996] WARNING: pipe error: 109: file c:/builds/moz2_slave/m-rel-w64-00000000000000000000/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+1555737527026	Marionette	INFO	Listening on port 50286
+1555737527127	Marionette	INFO	Listening on port 50286
+1555737527144	Marionette	WARN	TLS certificate errors will be ignored for this session
+1555737527211	Marionette	DEBUG	loaded listener.js
+1555737533489	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1555737534851	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1555737534851	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1555737534891	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.241:7003/ebiz/faces/login.jspx"
+1555737565519	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.241:7003/ebiz/faces/login.jspx;jsessionid=nC87NxHByFQ2_-xj2B7k7mUrcL4tSCBjsOBR29IEP7ol20M7n4Yh!2043516651"
+1555737565821	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.241:7003/ebiz/faces/login.jspx;jsessionid=nC87NxHByFQ2_-xj2B7k7mUrcL4tSCBjsOBR29IEP7ol20M7n4Yh!2043516651"
+1555737565823	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.241:7003/ebiz/faces/login.jspx;jsessionid=nC87NxHByFQ2_-xj2B7k7mUrcL4tSCBjsOBR29IEP7ol20M7n4Yh!2043516651"
+1555737565889	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.241:7003/ebiz/faces/StartPage.jspx"
+Unable to read VR Path Registry from C:\Users\Administrator\AppData\Local\openvr\openvrpaths.vrpath
+JavaScript error: http://192.168.1.241:7003/ebiz/resource/js/jquery.min.js, line 310: SyntaxError: missing ; before statement
+JavaScript error: http://192.168.1.241:7003/ebiz/resource/js/jquery.flexslider-min.js, line 429: ReferenceError: jQuery is not defined
+1555737590581	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1555737594261	Marionette	DEBUG	Received DOM event "beforeunload" for "http://192.168.1.241:7003/ebiz/faces/StartPage.jspx"
+1555737594462	Marionette	DEBUG	Received DOM event "pagehide" for "http://192.168.1.241:7003/ebiz/faces/StartPage.jspx"
+1555737594465	Marionette	DEBUG	Received DOM event "unload" for "http://192.168.1.241:7003/ebiz/faces/StartPage.jspx"
+1555737594483	Marionette	DEBUG	Received DOM event "pageshow" for "http://192.168.1.241:7003/ebiz/faces/ModulePage.jspx"
+JavaScript error: http://192.168.1.241:7003/ebiz/resource/js/jquery.elevatezoom.js, line 1735: ReferenceError: jQuery is not defined
+1555737607097	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1555737612446	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1555737627064	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1555737632368	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1555737638764	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1555737648229	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1555737655627	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
+1555737662946	Marionette	DEBUG	Canceled page load listener because no navigation has been detected
